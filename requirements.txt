@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy 
+os
+warnings
+matplotlib
+seaborn
+random
+sklearn
+PIL
+pickle
